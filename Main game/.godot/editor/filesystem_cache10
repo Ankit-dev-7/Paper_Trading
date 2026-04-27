@@ -1,8 +1,8 @@
 72322a848ab928aa5c89f0cb78209805
-::res://::1777192622
-export_presets.cfg::TextFile::-1::1777134160::0::1::::<><><>0<>0<><>::
+::res://::1777261664
+export_presets.cfg::TextFile::-1::1777199270::0::1::::<><><>0<>0<><>::
 icon.svg::CompressedTexture2D::1979403932258650197::1777133588::1777135159::0::::<><><>0<>0<>54cb7bb503acf52918cba1b3412a6054<>::
-README.md::TextFile::-1::1777134164::0::1::::<><><>0<>0<><>::
+README.md::TextFile::-1::1777194613::0::1::::<><><>0<>0<><>::
 TODO.md::TextFile::-1::1777134166::0::1::::<><><>0<>0<><>::
 ::res://scenes/::1777185856
 asteroid.tscn::PackedScene::46459317309811::1777189186::0::1::::<><><>0<>0<><>::res://scripts/asteroid.gd
@@ -15,7 +15,7 @@ main_menu.tscn::PackedScene::109564089732878::1777185856::0::1::::<><><>0<>0<><>
 meteor.tscn::PackedScene::670996438869::1777189170::0::1::::<><><>0<>0<><>::res://scripts/meteor.gd
 pause_menu.tscn::PackedScene::24373456040::1777134089::0::1::::<><><>0<>0<><>::res://scripts/pause_menu.gd
 planet.tscn::PackedScene::828711413215::1777133971::0::1::::<><><>0<>0<><>::res://scripts/planet.gd
-player.tscn::PackedScene::145907874057::1777192606::0::1::::<><><>0<>0<><>::res://scripts/player.gd
+player.tscn::PackedScene::145907874057::1777192712::0::1::::<><><>0<>0<><>::res://scripts/player.gd
 repair_kit.tscn::PackedScene::933840204665::1777187488::0::1::::<><><>0<>0<><>::res://scripts/pickup.gd<>res://scripts/repair_kit_visual.gd
 solar_flare.tscn::PackedScene::1318191492610970382::1777134006::0::1::::<><><>0<>0<><>::res://scripts/solar_flare.gd
 upgrade.tscn::PackedScene::37113071507634::1777134011::0::1::::<><><>0<>0<><>::res://scripts/pickup.gd
@@ -30,9 +30,9 @@ hud.gd::GDScript::4762084647462465720::1777133741::0::1::::<>CanvasLayer<><>0<>0
 main_menu.gd::GDScript::4524749234228421691::1777186286::0::1::::<>Control<><>0<>0<><>::
 meteor.gd::GDScript::1712813904455732299::1777190867::0::1::::<>Area2D<><>0<>0<><>::
 pause_menu.gd::GDScript::6688189069304354016::1777186142::0::1::::<>CanvasLayer<><>0<>0<><>::
-pickup.gd::GDScript::4297866565636733251::1777134432::0::1::::<>Area2D<><>0<>0<><>::
+pickup.gd::GDScript::4297866565636733251::1777261649::0::1::::<>Area2D<><>0<>0<><>::
 planet.gd::GDScript::5405495535174628168::1777188674::0::1::::<>StaticBody2D<><>0<>0<><>::
-player.gd::GDScript::7916858451714186593::1777192129::0::1::::<>CharacterBody2D<><>0<>0<><>::
+player.gd::GDScript::7916858451714186593::1777261552::0::1::::<>CharacterBody2D<><>0<>0<><>::
 repair_kit_visual.gd::GDScript::5760609348978803482::1777188939::0::1::::<>Node2D<><>0<>0<><>::
 solar_flare.gd::GDScript::2600732281411771810::1777189358::0::1::::<>Area2D<><>0<>0<><>::
 spawner.gd::GDScript::1026488763173525553::1777190814::0::1::::<>Node<><>0<>0<><>::
